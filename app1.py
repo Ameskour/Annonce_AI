@@ -5,7 +5,7 @@ import openai
 from questions import questions  # import the questions dictionary
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'your-key-here' 
 app = Flask(__name__)
 
 current_state = "offer_type"
