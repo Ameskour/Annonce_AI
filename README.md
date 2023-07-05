@@ -26,3 +26,10 @@ The project has a simple structure:
 To install the required packages, run:
 ```bash
 pip install -r requirements.txt
+
+In the following screenshot, you can see the user interface of our application in action:
+
+![Interface Result](./result_interface.jpg)
+
+As can be seen from the image, the user types their message in the input box, then presses the 'Send' button. The chatbot responds and the conversation is displayed in the chatbox.
+
