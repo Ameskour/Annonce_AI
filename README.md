@@ -1,3 +1,6 @@
+# AI Real Estate Chatbot
+
+This is an AI chatbot built using OpenAI's GPT-4 model. The chatbot assists in generating real estate property listings by guiding users through a series of questions to understand the type of property, the sale/rent price, location, and other important features. The bot then generates a detailed, engaging description of the property in French.
 
 ## Features
 - Interactive chatbot.
